@@ -3,12 +3,6 @@ vbucks
 -----------BOT OWNER----------
 cleancmd [Clears all the cmd]
 gcdrop [Drops all GIFTCARDS]
-------------------------------
-Proxies Scraping 
-
-socks4
-socks5
-http
 -----------Moderation---------
 ban [Ban Members True]
 kick [Kick Members True]
